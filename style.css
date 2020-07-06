@@ -1,10 +1,12 @@
 .orange-bg{
     background-color: #fceae8;
-    border-radius: 10px;
+    border-radius: 10px
 }
 .carousel-item{
     padding: 20px 20px;
 }
+}
+
 .price{
     color:#ff136f;
 }
@@ -48,4 +50,17 @@
 .card-footer{
     background-color: white;
     border-top: none;
+}
+
+.subscribe{
+    height: 300px;
+}
+
+.subscribe h6{
+    color: gray;
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
 }
